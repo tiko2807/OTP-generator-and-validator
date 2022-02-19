@@ -1,4 +1,4 @@
-# Python email validator
+# OTP generator and validator
 **OTP generator and validator worikng in Python**
 
 
