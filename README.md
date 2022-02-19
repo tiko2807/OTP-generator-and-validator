@@ -22,9 +22,9 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
-**Windows**
-· Download repository
-· Unpack it
+**Windows**  
+· Download repository  
+· Unpack it  
 · Open Command Prompt
 ```sh
 python main.py
