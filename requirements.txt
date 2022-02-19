@@ -1,0 +1,3 @@
+# Our requirements
+send_mail
+mysql.connector
